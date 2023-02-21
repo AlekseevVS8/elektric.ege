@@ -35,8 +35,6 @@ text {
   <font>
 }
 
-.flex {
-display: grid;
-   grid-template-columns: repeat(3, 1fr);
-   grid-template-rows: repeat(5, 80px);
+.max {
+  margin: -100px -100px 30px -50px
 }
