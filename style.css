@@ -34,6 +34,12 @@ text {
   <font face="Verdana" size="8">
   <font>
 }
+.di {
+  margin: -133px 200px 20px
+}
+.pol {
+  margin: -133px 400px 20px
+}
 
 .max {
   margin: -133px 200px 20px
