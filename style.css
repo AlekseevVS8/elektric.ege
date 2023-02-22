@@ -38,10 +38,6 @@ text {
 .max {
   margin: -133px 200px 20px
 }
-.ramka {
-  border:3px #1E90FF  dashed; 
-  width:175px;
-}
 .formula {
   border:3px #1E90FF ridge; 
   width: 200px; 
