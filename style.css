@@ -42,3 +42,8 @@ text {
   border:3px #1E90FF  dashed; 
   width:175px;
 }
+.formula {
+  border:3px #1E90FF ridge; 
+  width: 200px; 
+  text-align:center;
+}
