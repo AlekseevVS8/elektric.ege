@@ -2,6 +2,6 @@
 function check()
 {
 if ( calc.answer.value == "6" )
-     alert("Правильно, молодец!");
-else alert("Неправильно, подумай ещё!");
+     alert("Правильно!");
+else alert("Неправильно!");
 }
