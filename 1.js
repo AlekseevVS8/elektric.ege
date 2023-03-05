@@ -6,14 +6,14 @@ if ( calc.answer.value == "6" )
 else alert("Неправильно!");
 }
 
-function check()
+function check2()
 {
 if ( calc.n2.value == "30" )
      alert("Правильно!");
 else alert("Неправильно!");
 }
 
-function check()
+function check3()
 {
 if ( calc.n3.value == "2" )
      alert("Правильно!");
